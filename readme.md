@@ -1,10 +1,10 @@
-# 📊 Bank Client Data Preprocessing & Feature Engineering
+#  Bank Client Data Preprocessing & Feature Engineering
 
 Welcome to the **Bank Client Data Preprocessing** repository! This project focuses on preparing a complex banking dataset containing customer demographics, financial records, and categorical behavior indicators for downstream Machine Learning models.
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Dataset Characteristics](#dataset-characteristics)
 - [Key Data Preprocessing Steps](#key-data-preprocessing-steps)
@@ -15,7 +15,7 @@ Welcome to the **Bank Client Data Preprocessing** repository! This project focus
 
 ---
 
-## 🔎 Overview
+##  Overview
 
 In financial and banking analytics, raw data is often dirty, incomplete, and contains a mix of non-comparable scales and categorical data types. 
 
@@ -23,7 +23,7 @@ This project demonstrates an end-to-end data preprocessing pipeline using **Pyth
 
 ---
 
-## 📋 Dataset Characteristics
+##  Dataset Characteristics
 
 The original dataset (`jeu_donnees_clients_banque_100_lignes.xlsx`) consists of **100 customer records** across **10 features**:
 
@@ -71,7 +71,7 @@ The original dataset (`jeu_donnees_clients_banque_100_lignes.xlsx`) consists of 
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 - **Python** `3.x`
 - **Pandas** for data manipulation and analysis
